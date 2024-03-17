@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreimarin15&show_icons=true&theme=dark&locale=en" alt="andreimarin15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreimarin15&theme=dark" alt="andreimarin15" /></p>
+<p><img align="center" width="full" src="https://github-readme-streak-stats.herokuapp.com/?user=andreimarin15&theme=dark" alt="andreimarin15" /></p>
 
 <!--
 **AndreiMarin15/AndreiMarin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
