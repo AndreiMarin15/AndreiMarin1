@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreimarin15" alt="andreimarin15" /></a> </p>
 
-- 🔭 I’m currently working on [Endotracker for my Capstone](https://github.com/AndreiMarin15/capstone)
+- 🔭 I’m currently working on [Endotracker](https://github.com/AndreiMarin15/capstone)
 
-- 🌱 I’m currently learning **Flutter, Vue, Typescript, Angular, Svelte, Supabase, PHP, Python, and many more!**
+- 🌱 I’m currently learning **Vue, Typescript, Angular, Svelte, Supabase, PHP, Python, and many more!**
 
 - 👨‍💻 You can also view my website [andreimar.in](andreimar.in)
 
-- 💬 Ask me about **MERN, Next.js, Android Development, Javascript, Node**
+- 💬 Ask me about **MERN, Next.js, Android Development, Javascript, Node, Flutter**
 
 - 📫 How to reach me **andreimarin1622@gmail.com**
 
